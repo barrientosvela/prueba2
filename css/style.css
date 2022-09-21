@@ -1,6 +1,15 @@
 h1{
     color: blue;
 }
-form{
+p{
+    font-size: 15px;
+}
+form.Español{
+    color: red;
+}
+form.Ingles{
+    color: red;
+}
+form.Aleman{
     color: red;
 }
